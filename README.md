@@ -1,2 +1,3 @@
-# Global-Superstores-Visualization-using-Tableau-Software
-The Tableau project involves the creation of an interactive dashboard that visualizes various key business metrics. Key features include dynamic bar and pie charts, interactive filters for product markets and years, and KPI cards, all designed to support data-driven decision-making and enhance strategic planning and operational efficiency.
+The Tableau project involves the creation of an interactive dashboard that visualizes key business metrics including Customer Lifetime Value (CLV), Average Order Value, and Profit Margin Analysis. The dashboard offers a comprehensive view of business performance, enabling stakeholders to identify high-value customers, profitable product markets, and trends in sales and profitability. 
+
+Key features include dynamic bar and pie charts, interactive filters for product markets and years, and KPI cards, all designed to support data-driven decision-making and enhance strategic planning and operational efficiency.
